@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm nisha bhatt</h1>
 <h3 align="center">Trivubhan university (BCA)</h3>
-<img align="right" alt="coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FWK41JQ&psig=AOvVaw2J7YjuAbet_Vd1jhjq0a65&ust=1685700051771000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC21pjoof8CFQAAAAAdAAAAABAI>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=229nisu&label=Profile%20views&color=0e75b6&style=flat" alt="229nisu" /> </p>
 
@@ -29,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=229nisu&show_icons=true&locale=en" alt="229nisu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=229nisu&" alt="229nisu" /></p>
+
