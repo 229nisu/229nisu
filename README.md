@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack**
 
-- 🌱 I’m currently learning **Frontend(HTML,CSS,JS,REACTJS_)**  Back-end**(PHP/Laravel)
+- 🌱 I’m currently learning **Frontend(HTML,CSS,JS,REACTJS_  Back-End (PHP,Laravel)**
 
 - 👯 I’m looking to collaborate on **different project of open source**
 
