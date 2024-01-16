@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/@nishabhattnisha" target="blank"><img src="https://img.shields.io/twitter/follow/@nishabhattnisha?logo=twitter&style=for-the-badge" alt="@nishabhattnisha" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **Full Stack**
 
-- 🌱 I’m currently learning **Frontend(HTML,CSS,JS,REACTJS_)**
+- 🌱 I’m currently learning **Frontend(HTML,CSS,JS,REACTJS_)**  Back-end**(PHP/Laravel)
 
 - 👯 I’m looking to collaborate on **different project of open source**
 
